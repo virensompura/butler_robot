@@ -27,7 +27,7 @@ sudo apt install ros-humble-gazebo-ros2-control \
                  ros-humble-controller-manager \
                  ros-humble-gazebo-ros-pkgs \
                  ros-humble-xacro \
-                 ros-humble-nav2-bringup \
+                 ros-humble-nav2-* \
                  ros-humble-tf-transformations
 ```
 
