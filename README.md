@@ -41,9 +41,9 @@ pip3 install transforms3d
 
 1. Create a workspace and clone the repository:
 ```bash
-mkdir -p goat_robotics_ws/src
-cd goat_robotics_ws/src
-git clone https://github.com/virensompura/butler_robot.git
+mkdir goat_robotics_ws/
+cd goat_robotics_ws/
+git clone git@github.com:virensompura/butler_robot.git
 ```
 
 2. Build the workspace:
